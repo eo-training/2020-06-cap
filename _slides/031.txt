@@ -1,0 +1,9 @@
+- - -
+Layout: slide
+Title: “Confirmation”
+- - -
+After you have selected the Check Voter In button, a confirmation screen appears.  Click confirm.
+
+You will be returned to the original list of voters.  A red bar now appears over the voter’s name.
+
+What to do if you have checked in the wrong voter:  CALL THE CHIEF.  He will explain how to undo the check in.
