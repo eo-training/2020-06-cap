@@ -1,7 +1,0 @@
----
-Layout: slide
-Title: "Let’s check in a voter"
----
-Checking in an absentee voter incorporates a number of steps that must be followed deliberately and accurately.
-  
-Once you master these fundamentals, you will recognize the various types of voter submissions and be able to check in any type of absentee voter.

@@ -1,6 +1,0 @@
----
-Layout: slide
-Title: "Review and Final Reminders"
----
-
-Let’s take a moment for a quick review and final reminders.
