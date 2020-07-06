@@ -1,0 +1,7 @@
+- - -
+Layout: slide
+Title: “Absentee Status Definitions”
+- - -
+You may only check in a voter whose absentee status indicates Issued or Marked.
+
+If the voter’s Absentee Status indicates Unused, FWAB, On Machine, or Preprocessed, CALL THE CHIEF.  

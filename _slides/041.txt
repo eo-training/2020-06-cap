@@ -1,0 +1,7 @@
+- - -
+Layout: slide
+Title: “Email Ballot Mailer”
+- - -
+A voter living overseas may request that a ballot packet be emailed to him.  The voter will print out the ballot and B envelope and return the hard copies by regular mail.
+
+The emailed ballot packet does include a template for an outer mailer (see image on right, above).  However, typically, the voter will supply his own outer mailer.  Either form of outer mailer will not include a preprinted return address label.  Instead, when the ballot arrives at the Office of Elections, a staff member will write the voter’s ID # to help in the search on the EPB.

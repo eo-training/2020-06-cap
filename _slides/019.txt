@@ -1,0 +1,17 @@
+- - -
+Layout: slide
+Title: “EPB Start Screen”
+- - -
+When teams arrive at their workstations on election day, they will see the EPB start screen.  Let’s take a tour of this Start Screen.
+
+Upper Left-Hand Corner: Locate the Checked-in number.  As teams process ballots during the day, this number increases.
+  
+Under the Checked in Number:
+1.	Search Fields:  Typically, you will search using a last name, but it is also possible to search by Voter ID number or address.
+2.	Search is set at Advanced and Absentee says “true”.
+
+Upper Right-Hand Corner:  Locate the green “Search” button and the “Clear” button.  The Clear button clears all the data on the page.  When your team takes a break, clear the screen to protect the poll book information.  After break, ensure that you set the Advanced search and enter “true” after absentee.
+
+Bottom Right-hand Corner:  Locate the connectivity information.  Keep an eye on this throughout the day.  Ensure that the EPB is connected to the power source and that the correct number of EPBs are networked. 
+
+Center Screen:  Search results will appear here.
