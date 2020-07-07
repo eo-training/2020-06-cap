@@ -3,10 +3,10 @@ layout: home
 title: Home
 ---
 
-<img class="hero-image" src="{{ site.github.url }}/assets/img/chiefs-briefing-small.jpg">
+<img class="hero-image" src="{{ site.github.url }}/assets/img/cap-slide-004.jpg">
 
 <div class="homepage-intro">
-Welcome to the Central Absentee Precinct online training class!
+Welcome to the Central Absentee Precinct online training!
 </div>
 
 <div>
