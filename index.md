@@ -13,7 +13,7 @@ Welcome to the Central Absentee Precinct online training class!
 <a class="homepage-button" href="{{ site.github.url }}/slides/001">Start training</a>
 </div>
 
-**Questions?** Call 703-324-7739 or email CentralAbsenteePrecinct@fairfaxcounty.gov. We are here to help!
+**Questions?** Call 703-324-7739 or email CentralAbsentee@fairfaxcounty.gov. We are here to help!
 
 ---
 
