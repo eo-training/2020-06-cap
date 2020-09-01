@@ -36,7 +36,7 @@ collections:
 
 # Permalinks
 permalink:           /:short_year/:month/:title
-baseurl: /cap
+baseurl: /2020-06-cap
 # Fix date/time generation
 timezone: America/New_York
 
